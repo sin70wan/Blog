@@ -15,8 +15,28 @@ const blogData = [
     image: img1,
     author: "Emily Carter",
     date: "July 20th, 2025",
-    content: `In today’s fast-paced world, finding the time to cook every meal from scratch can feel impossible.
-Whether you’re a student juggling assignments, a parent managing multiple schedules...`,
+    content: `Writing Just a Few Minutes a Day Can Improve Mental Clarity and Reduce Stress—Ready to Start Your Journaling Habit?
+
+1. Morning Brain Dump (3 Minutes)
+Write freely about anything on your mind—no filter, no structure.  
+Benefit: Clears mental clutter for a focused day.  
+
+2. Gratitude Log (2 Minutes) 
+List 3 small things you’re grateful for today (e.g., sunshine, a good coffee).  
+Benefit: Boosts positivity and reduces stress.  
+
+3. Evening Reflection (5 Minutes)
+Answer:"What went well today? What could I improve?"
+Benefit: Helps process emotions and track personal growth.  
+
+4. One-Sentence Journaling  
+ Example:"Today, I felt proud when I __." 
+Benefit: Effortless but powerful for consistency.  
+
+5. Prompt-Based Writing (When Stuck)
+ Try: "If my mood were weather, it’d be because __."  
+ Benefit:Sparks self-awareness and creativity.  
+`,
   },
   {
     id:1,
