@@ -11,9 +11,9 @@ import img9 from '../assets/img9.png';
 const blogData = [
   {
     id:0,
-    title: "Meal Prep in Minutes: Fast, Fresh & Fuss-Free!",
+    title: "Journal for clarity ",
     image: img1,
-    author: "Emily Carter",
+    author: "Sadam Hussien",
     date: "July 20th, 2025",
     content: `Writing Just a Few Minutes a Day Can Improve Mental Clarity and Reduce Stress—Ready to Start Your Journaling Habit?
 
@@ -63,61 +63,244 @@ Benefit: Effortless but powerful for consistency.
   },
   {
     id:2,
-    title: "5 Ingredients or Less: Weeknight Dinners",
+    title: "The power of Morning Routines",
     image: img3,
-    author: "Emily Carter",
+    author: "Abdulaziz Isa",
     date: "July 22nd, 2025",
-    content: `Keep it simple. These dinner ideas are all about flavor, speed, and ease...
-    Linear helps steam line software projects , sprints tasks & bug tracking here is how get started`,
+    content: `Discover How a Simple Morning Routine Can Boost Productivity 
+
+Ready to transform your mornings and conquer your day? Try these science-backed habits:  
+
+1. Hydrate First Thing  
+Drink a glass of water – Your brain and body need hydration after sleep.  
+Benefit: Kickstarts metabolism and sharpens focus.  
+
+2. Move Your Body (Even for 5 Minutes)
+Stretch, yoga, or a quick walk – Gets blood flowing and reduces stiffness.  
+Benefit:Boosts energy and mental clarity.  
+
+3. Prioritize Your Top 3 Tasks
+Write down 1-3 must-do items – Focus on what truly matters.  
+Benefit: Prevents overwhelm and increases accomplishment.  
+
+4. Delay Digital Distractions
+Avoid phones/email for the first 30-60 minutes – Protect your mental space.  
+Benefit: Reduces stress and improves focus.  
+
+5. Fuel with a Nutrient-Rich Breakfast
+Choose protein + healthy fats (e.g., eggs, avocado, oatmeal).  
+Benefit: Sustained energy without crashes.  
+`,
   },
   {
     id:3,
-    title: "Smoothie Prep 101: Blend & Go",
+    title: "Migrating to Linear 101 ",
     image: img4,
-    author: "Emily Carter",
+    author: "Nebyu Musbah",
     date: "July 23rd, 2025",
-    content: `Smoothies can be more than just fruit. Learn how to prep a balanced blend...`,
+    content: `Linear Helps Streamline Software Projects: Sprints, Tasks & Bug Tracking
+
+Here’s how to get started with Linear for efficient project management:  
+
+1. Set Up Your Workspace
+- Create a workspace for your team (e.g., "Web App Dev" or "Mobile Team").  
+- Invite members (engineers, PMs, designers) with role-based access.  
+2. Organize Projects & Sprints
+- Break work into Projects(e.g., "New Auth System," "UI Redesign").  
+- Use Cycles (Sprints) to time-box work (2-4 weeks) with clear goals.  
+
+3. Create & Assign Tasks
+- Add issues (tasks/bugs) with:  
+  - Priority (Urgent, High, Medium, Low)  
+  - Labels (Frontend, Backend, Bug)  
+  - Estimates (time/complexity)  
+- Assign owners and set due dates.  
+
+4. Track Progress  
+- Views: Switch between List, Board, or Timeline to visualize work.  
+- Filters: Sort by assignee, status (Todo, In Progress, Done), or label.  
+- Progress bar shows sprint completion at a glance.  
+
+5. Streamline Bug Tracking
+- File bugs with:  
+  - Steps to reproduce  
+  - Expected vs. actual behavior  
+  - Environment details (OS, browser)  
+- Triage with labels like "Critical" or "Regression."  
+`,
   },
   
   {
     id:4,
-    title: "Batch Cooking Basics for Beginners",
+    title: "Try a digital Detox ",
     image: img5,
-    author: "Emily Carter",
+    author: "Ryan Foster",
     date: "July 24th, 2025",
-    content: `Save time and money by cooking in batches. Here’s how to start...`,
+    content: ` learn how a short digital detox can refresh your mind  Constant Screen Time Draining Your Energy?
+Discover How a Short Digital Detox Can Refresh Your Mind  
+ Why It Works  
+1. Mental Reboot – Reduces cognitive overload from endless scrolling  
+2. Improved Focus – Resets your attention span for deeper work  
+3. Better Sleep – Less blue light = higher melatonin production  
+4. Reduced Anxiety – Breaks the dopamine-chasing cycle of notifications  
+
+ Your 3-Step Detox Plan  
+
+ Morning (Start Strong)
+• 30-60 minutes screen-free after waking  
+• Try: Meditation, journaling, or a short walk  
+
+Midday (Recharge)  
+• 15-minute "tech-free lunch"  
+• Try: Reading a book (physical copy) or people-watching  
+
+ Evening (Unplug)
+• 1-hour pre-bed screen curfew  
+• Try: Stretching, conversation, or light chores  
+
+ Bonus Micro-Detoxes  
+• Turn off notifications for 1-hour focus blocks  
+• Try "grayscale mode" to make screens less stimulating  
+• Designate one screen-free day per month  
+
+Even small breaks help! Start with just one of these habits today. Your brain will thank you.  
+`,
   },
   {
     id:5,
-    title: "Grab-and-Go Breakfasts You’ll Love",
+    title: "Read More in 30 days ",
     image: img6,
-    author: "Emily Carter",
+    author: "Daniel Harris",
     date: "July 25th, 2025",
-    content: `Mornings are easier with these prepped breakfast ideas...`,
+    content: `Always Wanted to Read More?
+This Simple 30-Day Challenge Will Help You Build a Daily Reading Habit  
+
+The 5-Page Rule (Start Small)  
+Commit to reading just 5 pages per day – small enough to be effortless, but powerful enough to build momentum.  
+
+Why It Works
+Overcomes mental resistance – No "I don’t have time" excuse  
+Creates consistency – Easier to stick to than lofty goals  
+Compounds quickly – 5 pages/day = 150 pages/month (~1-2 books)  
+
+Your 30-Day Plan  
+
+Week 1: Build the Routine
+- Keep your book visible (bedside table, desk, or bag)  
+- Pair reading with an existing habit (e.g., after coffee or before bed)  
+
+Week 2: Track & Celebrate  
+- Mark an "X" on a calendar for each day completed  
+- Reward yourself after 7 days (e.g., a favorite snack or 15 min extra leisure time)  
+
+Week 3: Level Up (Optional)
+- Increase to 10 pages/day  if 5 feels too easy  
+- Try different genres to keep it engaging  
+
+Week 4: Reflect & Plan Ahead 
+- Note which reading times worked best for you  
+- Pick your next book in advance to maintain momentum  
+`,
   },
   {
     id:6,
-    title: "Healthy Snacks That Actually Satisfy",
+    title: "Strech at your Desk",
     image: img7,
-    author: "Emily Carter",
+    author: "lina temam",
     date: "July 26th, 2025",
-    content: `Stay energized all day with these snack prep ideas...`,
+    content: `Sitting All Day Can Cause Stiffness—Try These Easy Stretches to Stay Limber and Pain-Free
+
+1. Neck & Shoulder Relief
+Chin Tucks – Gently pull your chin straight back (like making a "double chin") to relieve tension.  
+Shoulder Rolls– Roll shoulders backward in slow circles to loosen tight muscles.  
+
+2. Upper Back Stretch 
+Seated Cat-Cow – Arch your back up (cat) and then dip it down (cow) while seated.  
+Cross-Body Shoulder Pull – Pull one arm across your chest and hold for 15 seconds.  
+
+3. Wrist & Hand Stretches (For Typing Fatigue)  
+Prayer Stretch – Press palms together, fingers up, then slowly lower hands while keeping contact.  
+Finger Extensions– Gently pull back each finger to counteract keyboard strain.  
+
+4. Hip & Lower Back Looseners
+Seated Figure-4 Stretch – Cross one ankle over the opposite knee and lean forward slightly.  
+Standing Forward Fold – Bend at the hips and let arms dangle to release lower back tension.  
+
+5. Leg & Ankle Mobility
+Calf Raises – Lift heels up and down while standing to boost circulation.  
+Ankle Circles – Rotate feet clockwise/counterclockwise to prevent stiffness.  
+`,
   },
   {
     id:7,
-    title: "Pantry-Friendly Recipes That Save Time",
+    title: "Travel for Less",
     image: img8,
-    author: "Emily Carter",
+    author: "Olivia Bennett",
     date: "July 27th, 2025",
-    content: `Use what you already have — these recipes are built from pantry staples...`,
+    content: `Traveling doesn't have to break the bank! Discover these smart ways to save on flights and more:
+
+1. Book Flights Strategically
+- Fly on weekdays(Tuesdays & Wednesdays are often cheapest)  
+- Use incognito mode to avoid price hikes from repeated searches  
+- Set fare alerts with tools like Google Flights or Skyscanner  
+2. Travel Off-Season
+- Avoid peak tourist times (summer, holidays)  
+- Destinations are cheaper and less crowded  
+- Example: Europe in late fall, Southeast Asia in rainy season  
+
+3. Stay Like a Local
+- Skip hotels – try hostels, Airbnb, or homestays  
+- House-sitting(free stays in exchange for pet/home care)  
+- Couchsurfing for budget-friendly local experiences  
+
+4. Eat Smart 
+- Shop at local markets instead of tourist restaurants  
+- Book accommodations with kitchens to cook simple meals  
+- Try street food – often delicious and budget-friendly  
+
+5. Use Public Transport
+- Trains & buses are cheaper than taxis/rentals  
+- Many cities offer tourist transit passesfor unlimited rides  
+- Walk or bike to explore while saving money  
+
+`,
   },
   {
     id:8,
-    title: "One-Pot Wonders for Minimal Cleanup",
+    title: "Stay Focused at home",
     image: img9,
-    author: "Emily Carter",
+    author: "Sophia Nguye",
     date: "July 28th, 2025",
-    content: `Less mess, more flavor — make dinner in one pot or pan...`,
+    content: `Struggling with focus while working remotely?try these proven strategies to stay motivated and productive 
+
+1. Designate a Dedicated Workspace
+- Create a specific area just for work (even if it's just a corner of a room)
+- Keep this space organized and free from household distractions
+- Mentally associate this space with "work mode"
+
+2. Follow the 90-Minute Focus Rule
+- Work in concentrated 90-minute blocks (our natural attention cycle)
+- Follow each with a 20-30 minute break
+- During breaks: stretch, hydrate, or do a quick chore
+
+3. Implement the "Two-Minute Rule"
+- If a task takes less than two minutes, do it immediately
+- Prevents small tasks from piling up and becoming overwhelming
+- Helps maintain momentum throughout the day
+
+4. Use Time-Blocking
+- Schedule specific blocks for different types of work
+- Example:
+  9-10 AM: Creative work
+ 10-11 AM: Meetings
+11-12 PM: Administrative tasks
+- Helps prevent task-switching and maintains focus
+
+5. End Your Day with a "Shutdown Ritual"
+- Spend 10 minutes reviewing what you accomplished
+- Make a list of tomorrow's top 3 priorities
+- Physically tidy your workspace
+- This creates psychological closure between work and personal time`,
   }
 ];
 
